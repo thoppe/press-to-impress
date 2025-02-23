@@ -12,3 +12,6 @@ Mapping state and local press releases connected to Federal funding allocations.
 + [ ] Identify which press releases relate to funding from Federal
 + [ ] Map press releases to actual funding from Federal grants or programs
 
+## Dev notes
+
+State govonor's URLs (unverified) [data](data/targets/state_governors.csv)
